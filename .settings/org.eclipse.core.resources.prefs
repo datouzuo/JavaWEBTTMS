@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/ttms/dao/Movie_Dao.java=UTF-8
+encoding//src/com/ttms/dao/Ticket_Dao.java=UTF-8
+encoding//src/com/ttms/idao/Movie_idao.java=UTF-8
+encoding//src/com/ttms/service/Movie_service.java=UTF-8
+encoding//src/com/ttms/web/OutTicketServlet.java=UTF-8
+encoding//src/com/ttms/web/custer/Custer_LoginServlet.java=UTF-8
+encoding//src/com/ttms/web/findTicketID.java=UTF-8
+encoding//src/com/ttms/web/schedule/AddScheduleServlet.java=UTF-8
+encoding//src/com/ttms/web/schedule/DeleteScheServlet.java=UTF-8
+encoding//src/com/ttms/web/ticket/BuyTicketServlet.java=UTF-8
+encoding/<project>=UTF-8

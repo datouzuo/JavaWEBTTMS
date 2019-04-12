@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+<bean id="cuseter_Dao" class="com.ttms.dao.Cuseter_Dao"></bean>
+
+<bean id="movie_Dao" class="com.ttms.dao.Movie_Dao"></bean>
+</beans>
